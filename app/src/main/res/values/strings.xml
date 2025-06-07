@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">On Baby Time</string>
+    <string name="nav_header_desc">내비게이션 헤더</string>
+    <string name="nav_header_title">아기 스케줄러</string>
+    <string name="nav_header_subtitle">내 아기의 모든 기록</string>
+    <string name="navigation_drawer_open">내비게이션 서랍 열기</string>
+    <string name="navigation_drawer_close">내비게이션 서랍 닫기</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">대시보드</string>
+    <string name="title_notifications">알림</string>
 </resources>
