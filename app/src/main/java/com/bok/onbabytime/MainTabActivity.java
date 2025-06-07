@@ -13,7 +13,7 @@ public class MainTabActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_tab);
 
-        BottomNavigationView nav = findViewById(R.id.bottom_navigation);
+        BottomNavigationView nav = findViewById(R.id.bottom_navigation_view);
         nav.setOnItemSelectedListener(item -> {
             Fragment fragment;
 
